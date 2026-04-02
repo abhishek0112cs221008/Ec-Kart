@@ -1,0 +1,6 @@
+[submodule "Ec-Kart-Backend"]
+	path = Ec-Kart-Backend
+	url = https://github.com/abhishek0112cs221008/Ec-Kart-Backend.git
+[submodule "Ec-Kart-Frontend"]
+	path = Ec-Kart-Frontend
+	url = https://github.com/abhishek0112cs221008/Ec-Kart-Frontend.git
