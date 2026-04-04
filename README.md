@@ -58,7 +58,7 @@ This project is divided into two main parts:
 * Responsive UI
 * Price Negotiation Feature
 * AI-based Review Analyzer
-* Dummy Payment Integration (Stripe)
+* Dummy Payment Integration (RozerPay)
 
 ---
 
@@ -117,7 +117,7 @@ Ec-Kart/
 
 ## Future Enhancements
 
-* Payment Integration (Stripe - real implementation)
+* Payment Integration
 * Order Tracking
 * Admin Dashboard
 * Seller Dashboard
